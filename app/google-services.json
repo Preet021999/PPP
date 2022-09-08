@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966963154478",
+    "project_id": "truck-f2af7",
+    "storage_bucket": "truck-f2af7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966963154478:android:b1b800e9093c0a150b19bf",
+        "android_client_info": {
+          "package_name": "com.example.ppp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966963154478-5j6585kfp4m2r4u3agvhs2che3v3b9a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMbxu26GUJtJoS8BBgPAHMyFEh56cMs-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966963154478-5j6585kfp4m2r4u3agvhs2che3v3b9a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
